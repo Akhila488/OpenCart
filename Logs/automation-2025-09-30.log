@@ -1,0 +1,40 @@
+21:24:58.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:24:58.623 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:24:58.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:24:58.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:24:58.647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:24:58.661 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:24:58.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:24:58.675 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:24:58.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:24:58.689 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:24:58.705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:24:58.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:24:58.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:24:58.721 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:24:58.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:24:58.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:24:58.740 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:24:58.751 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:24:58.763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:24:58.764 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:24:58.765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:24:58.776 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:24:58.815 [main] INFO  TestCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:25:03.980 [main] INFO  TestCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:25:03.997 [main] INFO  TestCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:25:12.562 [main] INFO  TestCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:25:12.568 [main] INFO  TestCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:25:15.323 [main] INFO  TestCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:25:30.256 [main] INFO  TestCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:25:30.264 [main] INFO  TestCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:25:35.890 [main] INFO  TestCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:25:35.897 [main] INFO  TestCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:25:50.478 [main] INFO  TestCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+08:57:54.279 [main] INFO  TestCases.tc_001AccontRegistrationTest - *****Starting TC001_AccountRegistrationTest  ****
+08:57:54.866 [main] INFO  TestCases.tc_001AccontRegistrationTest - *****Clicked on myaccount link  ****
+08:57:55.362 [main] INFO  TestCases.tc_001AccontRegistrationTest - *****Clicked on Register link  ****
+08:57:55.368 [main] INFO  TestCases.tc_001AccontRegistrationTest - *****Providing Customer details  ****
+08:57:57.465 [main] INFO  TestCases.tc_001AccontRegistrationTest - ***** Validating expected Message  ****
+08:57:57.557 [main] INFO  TestCases.tc_001AccontRegistrationTest - ***** Finished TC001_AccountRegistrationTest  ****
+08:58:00.910 [main] INFO  TestCases.TC002_LoginTest - **** Starting TC_002 LoginTest****
